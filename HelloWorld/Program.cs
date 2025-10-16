@@ -1,6 +1,4 @@
-﻿using System.Reflection.Metadata.Ecma335;
-
-namespace HelloWorld{
+﻿namespace HelloWorld{
     class Program {
     static void Main(){
         const string Name="Carlos Mosquera";
